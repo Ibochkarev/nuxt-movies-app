@@ -3,7 +3,7 @@
     <img src="../assets/imgs/movieHero.jpeg" alt="">
     <div class="text-container">
       <div class="text">
-        <span class="mini-heading">Сейчас в потоковом режиме</span>
+        <span class="mini-heading">Сейчас в потоке</span>
         <h1><span>Now</span> Streaming</h1>
         <a href="#movie-grid" class="button">Просмотр фильмов</a>
       </div>
